@@ -15,5 +15,3 @@
   <form action="stress.php" method="get">
   <input type="submit" value="Buy A lot">
 </form>
-
-

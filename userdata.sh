@@ -2,7 +2,7 @@
 ###add services
 yum install git -y
 yum install httpd -y
-amazon-linux-extras php7.2 -y 
+amazon-linux-extras install php7.2 -y 
 systemctl enable httpd
 chkconfig httpd
 ###copy web files
