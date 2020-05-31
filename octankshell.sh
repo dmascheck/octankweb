@@ -13,5 +13,3 @@ cp * /var/www/html
 amazon-linux-extras install epel -y 
 yum install stress -y
 service httpd restart
-
-
